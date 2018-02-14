@@ -2,11 +2,10 @@
    sphinx-quickstart on Tue Feb 13 19:02:53 2018.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
-
+==========================================
 Yet Profound, the Wells of Deep Memory
 
 HOW PATRICK PEARSE TAPPED MEMORIES OF CÚ CHULAINN
-
 ==========================================
 
 Project Description
