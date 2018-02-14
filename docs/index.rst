@@ -3,17 +3,21 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-**Yet Profound, the Wells of Deep Memory**
-*HOW PATRICK PEARSE TAPPED MEMORIES OF CÚ CHULAINN*
+Yet Profound, the Wells of Deep Memory
+
+HOW PATRICK PEARSE TAPPED MEMORIES OF CÚ CHULAINN
 
 ==========================================
+
+Project Description
+-------
 
 This is my writing sample for graduate school applications. I focus on Irish revolutionary history, particularly the way that Patrick Pearse utilized cultural images and memory to motivate his compatriots and justify his actions against the English in the Easter Rising of 1916.
 
 Requests
 -------
 
-If you would like to know more about the process I used, my notes, and my sources, please send me a message on GitHub.
+If you would like to know more about the process I used, my notes, and my sources, please feel free to send me an email at josh.whitehurst37@gmail.com
 
 
 Support
