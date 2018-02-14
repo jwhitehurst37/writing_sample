@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'writing_sample'
+project = 'Yet Profound, the Wells of Deep Memory'
 copyright = '2018, Joshua Whitehurst'
 author = 'Joshua Whitehurst'
 
@@ -82,7 +82,13 @@ html_theme = 'alabaster'
 # documentation.
 #
 # html_theme_options = {}
+html_theme_options = {
+    'github_user': 'jwhitehurst37',
+    'github_repo': 'writing_sample',
+    'github_button': 'true',
+    'github_banner': 'true',
 
+}
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
@@ -97,7 +103,15 @@ html_static_path = ['_static']
 # 'searchbox.html']``.
 #
 # html_sidebars = {}
-
+html_sidebars = {
+    '**': [
+        'about.html',
+        'navigation.html',
+        'relations.html',
+        'searchbox.html',
+        'donate.html',
+    ]
+}
 
 # -- Options for HTMLHelp output ---------------------------------------------
 
