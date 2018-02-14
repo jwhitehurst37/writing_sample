@@ -3,10 +3,6 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-   .. toctree::
-      :maxdepth: 2
-      Introduction.rst
-
 ==========================================
 Yet Profound, the Wells of Deep Memory: How Patrick Pearse Tapped Memories of CÚ CHULAINN
 ==========================================
@@ -30,6 +26,21 @@ Support
 -------
 
 Since this isn't much of a coding project or tool, you shouldn't have any issues, per se. However, if you find that something is not working correctly, please reach out to me at josh.whitehurst37@gmail.com with any questions, and I may be able to help you resolve your issue.
+
+Contents
+-------
+
+.. toctree::
+   :maxdepth: 2
+   :titlesonly:
+   Introduction <introduction>
+   How Pearse Adopted and Created Images of Ireland’s Cultural Heroes <cultural_heroes>
+   How Pearse Created a Reductive Image of England as a Cultural Villain <cultural_villains>
+   How Pearse Employed Cultural Memory as a Common Foundation of Knowledge <cultural_memory>
+   Language and Culture <language>
+   Remembering Ireland free <remembering>
+   Conclusion <conclusion>
+   Bibliography <bibliography>
 
 License
 -------
