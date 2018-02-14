@@ -33,8 +33,7 @@ The project is licensed under the MIT license.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-   body
+   Introduction
 
 
 ==================
