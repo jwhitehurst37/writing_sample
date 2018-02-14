@@ -3,9 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 ==========================================
-Yet Profound, the Wells of Deep Memory
-
-HOW PATRICK PEARSE TAPPED MEMORIES OF CÚ CHULAINN
+Yet Profound, the Wells of Deep Memory: How Patrick Pearse Tapped Memories of CÚ CHULAINN
 ==========================================
 
 Project Description
