@@ -40,6 +40,6 @@ The project is licensed under the MIT license.
 Indices and tables
 ==================
 
-* :ref:`genindex`
+* :ref:`body.rst`
 * :ref:`modindex`
 * :ref:`search`
