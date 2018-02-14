@@ -1,12 +1,18 @@
-============================================================
+==================================================================================
 How Pearse Created a Reductive Image of England as a Cultural Villain
-============================================================
+==================================================================================
 
-text body
+Cú Chulainn fought off the armies of Queen Maebh of Connacht; Gráinne Ní Mháille struggled against her overlords in Elizabethan England for control of her lands and the safety of her sons; Wolfe Tone and O’Donovan Rossa fought the English system of government in Ireland. These foreign oppressors – Connachtmen and Englishmen alike – have their complexities which were of little interest to Pearse. Pearse created a nearly monolithic enemy when he spoke of the English. In The Murder Machine Pearse does not mince words when he speaks of the English:
 
+  A French writer has paid the English a very well deserved compliment. He says that they never commit a useless crime. When they hire a man to assassinate an Irish patriot, when they blow a Sepoy from the mouth of a cannon, when they produce a famine in one of their dependencies, [#f1]_  they have always an ulterior motive. They do it not for fun. Humorous as these crimes are, it is not the humour of them, but their utility, that appeals to the English. [#f2]_
 
+In this opening salvo of the provocatively titled Murder Machine, Pearse clearly paints his villain in the drama of Ireland’s history of rebellion. Academic debate continues into the twenty-first century regarding the causes of the Famine and the English response to that event, but Pearse issues this condemnation of those actions clearly and unequivocally. Pearse would go on to blame the English entirely for what he considered the waning of Ireland’s manhood.
 
-more text
+Pearse was a poet, a revolutionary, and an educator. The Murder Machine was an education-themed pamphlet intended to persuade the reader that the English had destroyed education in Ireland and only a bilingual, cultural nationalist school could hope to correct that wrong. Pearse explained in his pamphlet that at the time of writing in 1914 there existed no education system in Ireland at all because what the English had set up in Ireland lacked the characteristics of education: “Education should foster; this education is meant to repress. Education should inspire; this education is meant to tame. Education should harden; this education is meant to enervate.” [#f3]_  Pearse directly ties the English efforts in this false education to the enslavement [#f4]_ of Ireland’s people. He also makes clear that he believes that true education would be too powerful for colonial subjects to receive and remain colonial: “The English are too wise a people to attempt to educate the Irish in any worthy sense. As well expect them to arm us.”  Pearse elaborates on the idea of rejecting English attempts at education and emasculation, furthering his position that education can, and should, be weaponized in the fight against the tyranny of English rule in Ireland. Pearse effectively painted a picture of England so starkly anti-Irish that no Irish person could stomach supporting their rule in Ireland. He demonstrated the colonial status of Ireland’s citizens through the education they received and encouraged his readers to find their education elsewhere; particularly in the stories and symbols Pearse himself utilized to reclaim Irish history for his own purposes.
 
+.. rubric:: Footnotes
 
-bunch o text
+.. [#f1] Pearse is here referring to the Irish Potato Famine, also called An Gorta Mor. He would be dead for nearly 36 years before the Bengal Famine, a similar situation to the Irish Famine regarding deliberately slow and lackluster governmental action which resulted in the needless deaths of so many colonial subjects.
+.. [#f2] Pearse, "The Murder Machine."
+.. [#f3] Pearse, "The Murder Machine."
+.. [#f4] Pearse is not referring to the same variety of chattel slavery experienced by African slaves in the United Kingdom and United States. The meme which surged in popularity during the far-right revisionism of the 2016 US Presidential Election is an equivocation with no merit. Liam Hogan's excellent work on debunking this pervasive myth can be found here: https://medium.com/@Limerick1914/all-of-my-work-on-the-irish-slaves-meme-2015-16-4965e445802a

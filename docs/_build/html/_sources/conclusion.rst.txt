@@ -2,11 +2,6 @@
 Conclusion
 =================================================================
 
+In the timeless past, the mythical hero Cú Chulainn is said to have defended all of Ulster from the raids of the Connachtmen all on his own; in the late 12th century, Strongbow and King Henry II would arrive to begin a long and terrible reign of English cruelty in Ireland; in 1649, Oliver Cromwell began his bloody conquest of Ireland as reparation for rebellions among Gaelic lords which would earn him the epitaph “The Butcher”; in 1798, Wolfe Tone died in British custody after attempts at revolution for Ireland; and carrying what he considered the torch of Ireland’s defense into 1916, Padraic Pearse read aloud the Proclamation of the Irish Republic on the steps of the General Post Office. It was within that document that Pearse and his comrades made clear their justification and goal to free Ireland, listing Ireland’s reasons for independence; by referencing these past grievances with the full intention to remove England’s influence from Ireland, Pearse invoked the deep and strong roots of Gaelic sovereignty. Pearse had been working through much of his life to build a cultural movement which could sustain the military movement he championed that Easter Monday.
 
-
-
-fpguqngibrgq
-pgieubegpq
-
-
-gpwiegbpergbwperg
+He and other cultural nationalists utilized newspapers and pamphlets, poetry and theater, speeches and eulogies to awaken the memory of Ireland as she once was – free of tyranny, free of England – within her men and women. Their military efforts that Easter week were fruitless; the rebels were soundly defeated and all the leaders of ‘16 were executed. But that rebellion began the chain of events which would see the formation of the Free State in 1922 and eventually the creation of the Republic of Ireland in 1949, a sovereign state free of English rule. Did guns and bayonets achieve that feet? Surely, many Irish and English died in the conflicts surrounding and caused by Easter 1916. Pearse’s works and their popularity, however, seem to indicate that it was the culture Pearse advanced which won the Uprising long after Pearse himself was dead.

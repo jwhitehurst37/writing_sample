@@ -1,11 +1,17 @@
-=======================================================
+=============================================================================
 How Pearse Employed Cultural Memory as a Common Foundation of Knowledge
-=======================================================
+=============================================================================
 
-textual memory
+Pearse’s dramatic and poetic works carried with them a clear endorsement of the cultural nationalist movement. A member of the Gaelic League, an avowed apolitical organization focused solely on the revival of Gaelic culture and language, Pearse had ample opportunity to utilize his creative abilities in service of his revolutionary interests. Even though the Gaelic League considered its work apolitical, Pearse did not come to believe in that mission.
 
-mo textual
+Pearse wrote in Gaelic and in English, though his preference was to the former. He wrote Mise Éire in Gaelic in a lamenting tone, as an old woman – the personification of Ireland – begging her sons to rise to her defense. He wrote this in 1914, two years before the Rising. He referenced the Hag of Beare and Cú Chulainn as a call-back to the way Ireland used to be, at least in Pearse’s revision, and how that former happiness could be achieved with the shedding of blood and valiant action. [#f1]_
 
+That shedding of blood became a theme in Pearse’s brand of militant cultural nationalism; Séamus Murphy, an Irish Jesuit at Loyola University Chicago, offers a model of Pearse’s work as a liturgy not unlike the Catholic liturgy upon which Pearse was raised. “… Liturgy [is] representational and symbolic, presenting image and rite to the congregation or audience, moving their emotions in catharsis and/or elevation, shaping their image of the world, and calling them to anamnestic action of remembrance and reenactment.” [#f2]_ Pearse incorporated liturgical elements in his writings and political activities, especially in the lead up to the Rising. This transformation of essentially cultural – as well as eventually and by extension, political – language into a liturgical format offered Pearse enormous power in the motivation and justification of his actions at Easter week 1916. Pearse utilized his abilities as a poet and playwright to call upon cultural memories shared by many Irish people; whether that be the might of Cú Chulainn or the ships of Gráinne Mhaol, the oppression of the British and the tragedy of Wolfe Tone, the martyrdom in exile of poor Rossa or the enslaving education system in colonial Ireland; for every character Pearse crafted a place in the liturgy. And that liturgy required a ritual of blood sacrifice.
 
+The concept of blood sacrifice existed in Pearse’s ideology before the Rising. In the Proclamation of the Irish Republic, Pearse and the other signers listed out their reasoning for their revolution, particularly the necessity of blood sacrifice to achieve that end; “In this supreme hour the Irish nation must, by its valour and discipline and by the readiness of its children to sacrifice themselves for the common good, prove itself worthy of the august destiny to which it is called.” [#f3]_ In this liturgy of nationalism the ritual of blood sacrifice must be completed in order to “prove [Ireland] worthy” of the cause of nationhood which Pearse ascribes it. Pearse and the other signers of the Proclamation divined a destiny of nationhood which every one of their heroes fought for – from Cú Chulainn to Gráinne Mhaol to Tone to Rossa – and for which their mighty and treacherous enemy – the English and their culture and education system which makes slaves of all – will gleefully spill Irish blood as they had for a thousand years.
 
-so textual so textuous
+.. rubric:: Footnotes
+
+.. [#f1] Robert Fitzroy Foster, The Oxford Illustrated History of Ireland (OUP Oxford, 1989). p. 284
+.. [#f2] Seamus Murphy, "Dark Liturgy, Bloody Praxis: The 1916 Rising," Studies 105, no. 417 (n.d.), https://dialogueireland.files.wordpress.com/2016/05/1916_dark_liturgy.pdf. p. 13
+.. [#f3] Ireland (Provisional government, 1916), Thomas James Clarke, Sean MacDiarmada, Padraic Pearse, James Connolly, Thomas MacDonagh, Eamonn Ceannt, Joseph Mary Plunkett, and Irish Republican Brotherhood. Poblacht Na hEireann = The Provisional Government of the Irish Republic to the People of Ireland. [Dublin]: [publisher not identified], 1916.
