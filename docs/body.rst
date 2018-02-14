@@ -4,7 +4,7 @@ The Body of the Essay
 
 You can find a link to each of the sections here.
 
-:doc:`Introduction <introduction>`
+:doc:`Introduction <intro_body>`
 ----------------------------------------------------------------------------------------------------
 
 :doc:`How Pearse Adopted and Created Images of Ireland’s Cultural Heroes <cultural_heroes>`
