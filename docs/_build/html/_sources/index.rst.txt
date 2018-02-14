@@ -33,6 +33,7 @@ Contents
 .. toctree::
    :maxdepth: 2
    :titlesonly:
+   
    Introduction <introduction>
    How Pearse Adopted and Created Images of Ireland’s Cultural Heroes <cultural_heroes>
    How Pearse Created a Reductive Image of England as a Cultural Villain <cultural_villains>

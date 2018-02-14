@@ -1,6 +1,6 @@
-===========
+=================================================================
 Introduction
-===========
+=================================================================
 
 Patrick Pearse was a bad revolutionary. He was a commander in chief with no military experience. He seemed aloof when tasked with logistical errands during the shelling of Dublin. He trudged ahead with his plans to rise despite enormous public backlash from his allies in the Irish Volunteers, particularly Eoin MacNeill, who sent a countermanding order to stop the Rising before it even began. Pearse and his comrades were executed by the British, leaving Dublin in ruins. And one hundred years later in the Republic of Ireland, a nation constituting twenty-six counties joined together in total independence from English rule, the people commemorated the Rising with the largest military parade in the history of the Republic.[#f1]  There was a long and bloody path from Patrick Pearse’s doorstep to that huge military parade. While that path still requires the detailed and careful study of historians to understand so fresh a memory, it is useful to step back into the path Pearse himself took to Easter 1916, and how he brought any men along with him to so grim a martyrdom, so triumphant a failure.
 
