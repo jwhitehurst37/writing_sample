@@ -2,6 +2,11 @@
    sphinx-quickstart on Tue Feb 13 19:02:53 2018.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
+
+   .. toctree::
+      :maxdepth: 2
+      Introduction.rst
+
 ==========================================
 Yet Profound, the Wells of Deep Memory: How Patrick Pearse Tapped Memories of CÚ CHULAINN
 ==========================================
@@ -30,11 +35,6 @@ License
 -------
 
 The project is licensed under the MIT license.
-
-.. toctree::
-   :maxdepth: 2
-   Introduction
-
 
 ==================
 Indices and tables
