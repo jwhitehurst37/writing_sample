@@ -10,7 +10,7 @@ Yet Profound, the Wells of Deep Memory: How Patrick Pearse Tapped Memories of CÃ
 Project Description
 ---------------------
 
-This is my writing sample for graduate school applications. I focus on Irish revolutionary history, particularly the way that Patrick Pearse utilized cultural images and memory to motivate his compatriots and justify his actions against the English in the Easter Rising of 1916. Please follow the links to the What Is This? section and learn more about the project and the document itself, including contact information for the author and a warning to those interested in citations. 
+This is my writing sample for graduate school applications. I focus on Irish revolutionary history, particularly the way that Patrick Pearse utilized cultural images and memory to motivate his compatriots and justify his actions against the English in the Easter Rising of 1916. Please follow the links to the What Is This? section and learn more about the project and the document itself, including contact information for the author and a warning to those interested in citations.
 
 Table of Contents
 -------------------
@@ -18,15 +18,7 @@ Table of Contents
   :maxdepth: 2
 
   What Is This? <what_is_this>
-  The Body of the Essay
-    Introduction <introduction>
-    How Pearse Adopted and Created Images of Irelandâ€™s Cultural Heroes <cultural_heroes>
-    How Pearse Created a Reductive Image of England as a Cultural Villain <cultural_villains>
-    How Pearse Employed Cultural Memory as a Common Foundation of Knowledge <cultural_memory>
-    Language and Culture <language>
-    Remembering Ireland free <remembering>
-    Conclusion <conclusion>
-    Bibliography <bibliography>
+  The Body of the Essay <body>
 
 
 Indices and tables

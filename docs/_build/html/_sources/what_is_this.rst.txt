@@ -17,10 +17,6 @@ Support
 
 Since this isn't much of a coding project or tool, you shouldn't have any issues, per se. However, if you find that something is not working correctly, please reach out to me at josh.whitehurst37@gmail.com with any questions, and I may be able to help you resolve your issue.
 
-==========================================================================================
-The Body of the Essay
-==========================================================================================
-
 License
 -------
 
